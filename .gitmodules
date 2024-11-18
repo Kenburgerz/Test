@@ -1,0 +1,3 @@
+[submodule "labmocktest"]
+	path = labmocktest
+	url = https://github.com/emeryaydan/labmocktest
